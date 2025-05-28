@@ -21,4 +21,8 @@ This project implements a real-time object detection system using webcam input. 
 - Pre-trained models: YOLOv5 / SSD MobileNet / others
 - NumPy
 
+# to download dependencies
+pip install -r requirements.txt
+
+
 
