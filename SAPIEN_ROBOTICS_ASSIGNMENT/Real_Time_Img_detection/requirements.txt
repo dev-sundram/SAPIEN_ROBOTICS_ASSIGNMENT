@@ -1,0 +1,10 @@
+# Core dependencies
+ultralytics>=8.0.0
+opencv-python>=4.7.0
+
+# Optional (recommended for GPU acceleration)
+torch>=2.0.0
+torchvision>=0.15.0
+
+# System utilities (only if using virtual environment tools)
+# numpy>=1.23.0
